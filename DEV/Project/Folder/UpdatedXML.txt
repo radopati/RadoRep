@@ -7,7 +7,7 @@
     <TellerADSubmitter>INET</TellerADSubmitter>
     <TellerADOwner>INET</TellerADOwner>
     <SubmittedBranchID>51</SubmittedBranchID>
-    <SubmittedDate>6/6/2019 11:28:00</SubmittedDate>
+    <SubmittedDate>6/6/2019 11:29:00</SubmittedDate>
     <Channel>2</Channel>
     <generatemembership>FALSE</generatemembership>
     <addinfo>
