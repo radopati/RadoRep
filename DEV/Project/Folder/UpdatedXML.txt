@@ -1,0 +1,113 @@
+<app>
+      <SalesforceAppNumber>S000035097</SalesforceAppNumber>
+    <IsJoint1Exist>False</IsJoint1Exist>
+    <IsJoint2Exist>False</IsJoint2Exist>
+    <PromotionCode>Abc123</PromotionCode>
+    <MemberNumber>679922</MemberNumber>
+    <TellerADSubmitter>INET</TellerADSubmitter>
+    <TellerADOwner>INET</TellerADOwner>
+    <SubmittedBranchID>51</SubmittedBranchID>
+    <SubmittedDate>6/6/2019 11:28:00</SubmittedDate>
+    <Channel>2</Channel>
+    <generatemembership>FALSE</generatemembership>
+    <addinfo>
+        <IsAuthenticated>False</IsAuthenticated>
+        <PermissiontouseEmail>Y</PermissiontouseEmail>
+        <TellerAD>INET</TellerAD>
+        <TellerID>X24</TellerID>
+        <BadIP>false</BadIP>
+        <ForeignIP>false</ForeignIP>
+    </addinfo>
+    <applicants>
+        <applicant>
+            <ApplicantType>1</ApplicantType>
+            <SegName/>
+            <ReferralName/>
+            <ReferralRelationship/>
+            <ReferralPhone/>
+            <IsMember>TRUE</IsMember>
+            <MemberNumber>679922</MemberNumber>
+            <FirstName>TEST</FirstName>
+            <MiddleName>M</MiddleName>
+            <LastName>FIVE</LastName>
+            <Suffix>Jr</Suffix>
+            <ResidentialStreetAddress1>321 VILLAGE PWY</ResidentialStreetAddress1>
+            <ResidentialStreetAddress2>APT 220</ResidentialStreetAddress2>
+            <ResidentialCity>DUBLIN</ResidentialCity>
+            <ResidentialState>CA</ResidentialState>
+            <ResidentialZip>94588</ResidentialZip>
+            <CurrentYearsofOccupancy>2</CurrentYearsofOccupancy>
+            <CurrentMonthofOccupancy>3</CurrentMonthofOccupancy>
+            <MailingAddress1>PO 123</MailingAddress1>
+            <MailingAddress2/>
+            <MailingCity>PLEASANTON</MailingCity>
+            <MailingState>CA</MailingState>
+            <MailingZip>94589</MailingZip>
+            <PreviousAddress1>1206 N SPAULDING AVE</PreviousAddress1>
+            <PreviousAddress2>APT 300</PreviousAddress2>
+            <PreviousCity>LOS ANGELES</PreviousCity>
+            <PreviousState>CA</PreviousState>
+            <PreviousZip>90046</PreviousZip>
+            <PreviousYearsofOccupancy>1</PreviousYearsofOccupancy>
+            <PreviousMonthofOccupancy>5</PreviousMonthofOccupancy>
+            <PreferredContact>3</PreferredContact>
+            <HomePhone>5555555555</HomePhone>
+            <CellPhone>7777777777</CellPhone>
+            <WorkPhone>6666666666</WorkPhone>
+            <EmailAddress>zzz@patelco.org</EmailAddress>
+            <JointDetailRelationship></JointDetailRelationship>
+            <EmploymentStatus>1</EmploymentStatus>
+            <EmployerName>KAISER</EmployerName>
+            <JobTitle>ANALYST AND AUDITORS</JobTitle>
+            <IdentificationType>1</IdentificationType>
+            <IdentificationNumber>DL12345</IdentificationNumber>
+            <IdentificationState>CA</IdentificationState>
+            <IdentificationCountry>US</IdentificationCountry>
+            <IdentificationExpiration>11/30/2022</IdentificationExpiration>
+            <IdentificationSchoolName/>
+            <SSN>123456784</SSN>
+            <Dateofbirth/>
+            <IsSensitive>FALSE</IsSensitive>
+            <RelationshipToPatelco>0</RelationshipToPatelco>
+            <TellerAD>INET</TellerAD>
+            <idverification>
+                <IsEligibleForVerification>true</IsEligibleForVerification>
+                <IDOLOGYID>2018681901</IDOLOGYID>
+            </idverification>
+            <security>
+                <Contactcenterpassword>testpass</Contactcenterpassword>
+                <ContactcenterPasswordHint>Who is testing</ContactcenterPasswordHint>
+                <TellerAD>INET</TellerAD>
+            </security>
+        </applicant>
+    </applicants>
+    <products>
+        <product>
+            <ProductID>FREECHK-a0V0S000000sgVI</ProductID>
+            <ProductCode>FREECHK</ProductCode>
+            <ProductType>CHECKING</ProductType>
+            <ProductDisplayName>FREE CHECKING</ProductDisplayName>
+            <NameOnCardPrimary>MANZOOR MIAN</NameOnCardPrimary>
+            <NameOnCardJoint1/>
+            <NameOnCardJoint2/>
+            <ATMCard>TRUE</ATMCard>
+            <DebitCard>FALSE</DebitCard>
+            <DebitCardPaidNSF>false</DebitCardPaidNSF>
+            <Term/>
+            <MonthlyTransferAmount/>
+            <MonthlyTransferDay/>
+            <MonthlyTransferFrom/>
+            <FundingMethod>3</FundingMethod>
+            <ACHInstitutionName/>
+            <ACHRoutingNumber>0</ACHRoutingNumber>
+            <ACHAccountType/>
+            <ACHAccountNumber/>
+            <FundingAmount>900</FundingAmount>
+            <InternalTransferSuffix/>
+            <Joint1forproduct>false</Joint1forproduct>
+            <Joint2forproduct>false</Joint2forproduct>
+            <SendInvestmentReferral>true</SendInvestmentReferral>
+            <TellerAD>rkrishnakumar</TellerAD>
+        </product>
+    </products>
+</app>
