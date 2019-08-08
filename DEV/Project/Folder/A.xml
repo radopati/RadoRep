@@ -1,0 +1,134 @@
+<submitXMLResponse>
+    <outXML>
+        <Applicant xmlns:sf="http://schemas.active-endpoints.com/appmodules/screenflow/2010/10/avosScreenflow.xsd" xmlns:aetgt="http://schemas.informatica.com/spi/types/2013/12/spi-interface/" xmlns:type="http://schemas.informatica.com/spi/types/2013/12/spi-interface/">
+            <ApplicantType>Primary Applicant</ApplicantType>
+            <Name>
+                <First>TEST</First>
+                <Middle>M</Middle>
+                <Last>TWO</Last>
+                <Suffix>Jr</Suffix>
+                <Prefix>Mr</Prefix>
+            </Name>
+            <Addresses>
+                <Address>
+                    <AddressType>Home</AddressType>
+                    <Street1>312 BLAST OFF ST</Street1>
+                    <Street2>APT 115</Street2>
+                    <City>HOUSTON</City>
+                    <State>TX</State>
+                    <Zip>94521</Zip>
+                    <Country>US</Country>
+                    <YearsOfOccupany>2</YearsOfOccupany>
+                    <MonthsOfOccupany>3</MonthsOfOccupany>
+                </Address>
+                <Address>
+                    <AddressType>Mail</AddressType>
+                    <Street1>PO 123</Street1>
+                    <Street2/>
+                    <City>SANFRANCISCO</City>
+                    <State>CA</State>
+                    <Zip>94111</Zip>
+                    <Country>US</Country>
+                    <YearsOfOccupany>0</YearsOfOccupany>
+                    <MonthsOfOccupany>0</MonthsOfOccupany>
+                </Address>
+                <Address>
+                    <AddressType>Previous</AddressType>
+                    <Street1>111 Union street</Street1>
+                    <Street2>APT 500</Street2>
+                    <City>OREGON CITY</City>
+                    <State>OR</State>
+                    <Zip>97045</Zip>
+                    <Country>US</Country>
+                    <YearsOfOccupany>1</YearsOfOccupany>
+                    <MonthsOfOccupany>5</MonthsOfOccupany>
+                </Address>
+            </Addresses>
+            <PhoneNumbers>
+                <PhoneNumber>
+                    <PhoneNumberType>Home</PhoneNumberType>
+                    <Number>9259259259</Number>
+                    <Extension/>
+                </PhoneNumber>
+                <PhoneNumber>
+                    <PhoneNumberType>Work</PhoneNumberType>
+                    <Number>9256666666</Number>
+                    <Extension>4567</Extension>
+                </PhoneNumber>
+                <PhoneNumber>
+                    <PhoneNumberType>Cell</PhoneNumberType>
+                    <Number>9257777777</Number>
+                    <Extension/>
+                </PhoneNumber>
+            </PhoneNumbers>
+            <Email>xyz@patelco.org</Email>
+            <PreferredContact>Cell</PreferredContact>
+            <RelationshipToApplicant/>
+            <DetailRelationShipToApplicant/>
+            <IsMember>haha</IsMember>
+            <MemberNumber>lala</MemberNumber>
+            <HousingType>Lease</HousingType>
+            <HousingExpense>100.00</HousingExpense>
+            <SSN>123456781</SSN>
+            <DateOfBirth>12/31/1970</DateOfBirth>
+            <IsMLACovered>true</IsMLACovered>
+            <Employers>
+                <Employer>
+                    <EmploymentType>Employed</EmploymentType>
+                    <Name>KAISER</Name>
+                    <Occupation>ANALYST AND AUDITORS</Occupation>
+                    <IsCurrentEmployer>true</IsCurrentEmployer>
+                    <YearsOfEmployment>0</YearsOfEmployment>
+                    <MonthsOfEmployment>6</MonthsOfEmployment>
+                    <Income>5000.00</Income>
+                    <IncomeFrequency>Monthly</IncomeFrequency>
+                </Employer>
+                <Employer>
+                    <EmploymentType>Employed</EmploymentType>
+                    <Name>PALO ALTO</Name>
+                    <Occupation>ANALYST</Occupation>
+                    <IsCurrentEmployer>false</IsCurrentEmployer>
+                    <YearsOfEmployment>3</YearsOfEmployment>
+                    <MonthsOfEmployment>0</MonthsOfEmployment>
+                    <Income>4000.00</Income>
+                    <IncomeFrequency>Monthly</IncomeFrequency>
+                </Employer>
+            </Employers>
+            <OtherIncomes>
+                <OtherIncome>
+                    <Source>Overtime</Source>
+                    <Amount>100.00</Amount>
+                    <Frequency>Monthly</Frequency>
+                </OtherIncome>
+                <OtherIncome>
+                    <Source>Bonus</Source>
+                    <Amount>15000.00</Amount>
+                    <Frequency>Yearly</Frequency>
+                </OtherIncome>
+                <OtherIncome>
+                    <Source>Welfare Benefits</Source>
+                    <Amount>200.50</Amount>
+                    <Frequency>Monthly</Frequency>
+                </OtherIncome>
+            </OtherIncomes>
+            <Identifications>
+                <Identification>
+                    <IdentificationName>Driver's License</IdentificationName>
+                    <Number>DL12345</Number>
+                    <IssuedDate>12/13/2017</IssuedDate>
+                    <ExpiryDate>11/30/2022</ExpiryDate>
+                    <StateIssued>CA</StateIssued>
+                    <CountryIssued>US</CountryIssued>
+                    <SchoolName/>
+                </Identification>
+            </Identifications>
+            <Identity>
+                <IdentityVerification>
+                    <TransactionID>2018681901</TransactionID>
+                    <IsEligibleForVerification>true</IsEligibleForVerification>
+                    <Result>Pass</Result>
+                </IdentityVerification>
+            </Identity>
+        </Applicant>
+    </outXML>
+</submitXMLResponse>
